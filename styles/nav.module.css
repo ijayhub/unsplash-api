@@ -1,0 +1,104 @@
+
+.showcase{
+    background-image:url('../public/img/cover.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    height:65vh;
+    background-attachment: scroll;
+    width: 100vw;
+    
+}
+.overlay{
+    
+    background-color: rgba(0,0,0,0.4);
+    height:65vh;
+    color:white;
+    background-attachment: scroll;
+}
+.heading{
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    margin-left: 200px;
+}
+.header{
+    font-size: 46px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-weight:700;
+}
+.text{
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-size:18px;
+    font-weight: 400;
+}
+.input{
+    padding:15px 40px;
+    width:800px;
+    border-radius: 10px;
+}
+
+.position{
+    position:relative;
+    top:-35px;
+    padding-left: 10px;
+}
+.position1{
+    position:relative;
+    top:-65px;
+    left:750px;
+    padding-left: 10px;
+}
+@media only screen and (max-width: 768px){
+    .input{
+        display:none;
+    }
+    .position{
+        display:none;
+    }
+    .showcase{
+        width:100vw;
+    }
+   
+}
+@media only screen and (max-width:600px){
+    .input{
+        width:100%;
+    }
+    .heading{
+        padding: 0;
+        margin-left: 0;
+    }
+    .position{
+        display:none;
+    }
+    .position1{
+        display:none;
+    }
+    .input{
+        display: none;
+    }
+    .showcase{
+        height:20vh;
+    
+    }
+    .overlay{
+        height:20vh;
+    }
+    .header{
+        font-size: 25px;
+        
+        
+    }
+    .text{
+        
+        font-size:10px;
+
+    }
+    
+
+}
+
