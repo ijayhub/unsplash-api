@@ -1,4 +1,4 @@
-
+a
 <div id="top"></div>
 <div align="center">
 
@@ -24,9 +24,10 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Repo_name: https://github.com/ijayhub/unsplash-api
+<a href='https://github.com/ijayhub/unsplash-api' target='_blank>Repo Codes</a>
 
-Hosted link: https://api-by-unsplash.netlify.app
+
+<a href='https://api-by-unsplash.netlify.app' target='_blank> Hosted link</a>
 
 <h1 align="center">Unsplash-clone-Api</h1>
 
