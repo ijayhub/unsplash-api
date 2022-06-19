@@ -24,8 +24,9 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Repo_name: 
-Hosted link: 
+Repo_name: https://github.com/ijayhub/unsplash-api
+
+Hosted link: https://api-by-unsplash.netlify.app
 
 <h1 align="center">Unsplash-clone-Api</h1>
 
