@@ -23,11 +23,10 @@ a
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+ * [Repo codes](https://github.com/ijayhub/unsplash-api)
 
-<a href='https://github.com/ijayhub/unsplash-api' target='_blank>Repo Codes</a>
+ * [Hosted Link](https://api-by-unsplash.netlify.app)
 
-
-<a href='https://api-by-unsplash.netlify.app' target='_blank> Hosted link</a>
 
 <h1 align="center">Unsplash-clone-Api</h1>
 
