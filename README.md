@@ -28,10 +28,11 @@
  * [Hosted Link](https://api-by-unsplash.netlify.app)
 
 
-<h1 align="center">Unsplash-clone-Api</h1>
+<h1 align="center">Unsplash-clone</h1>
 
-Description: 
-* This a display of recommended images gotten from unsplash api.
+### Description
+
+These are images obtained through the use of the Unsplash API, displayed for your viewing
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -70,4 +71,3 @@ You may also see any lint errors in the console.
  
 
 
-still in progress
