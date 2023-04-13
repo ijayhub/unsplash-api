@@ -1,0 +1,24 @@
+{
+    "accordion":[
+			{
+				"id": 1,
+				"Question": "What's the last book you gave up on and stopped reading?",
+				"answer": "lorem ipsum"
+			},
+			{
+				"id": 2,
+				"Question": "What is one of your favorite smells?",
+				"answer": " fresh smells"
+			},
+			{
+				"id": 3,
+				"Question": "What's your favorite book?",
+				"answer": "The bible, motivational books"
+			},
+			{
+				"id": 4,
+				"Question": "What was the best compliment you've ever received?",
+				"answer": " I love the way you smile and smell"
+			}
+		]
+}
